@@ -1,0 +1,24 @@
+* {
+  font-family: Rancho, Arial, serif;
+  background-color:blue;
+  color:white;
+}
+
+.maintitle {
+  text-align:center;
+  text-decoration:none;
+}
+
+.maintitle:hover,
+.mouseover {
+  color:orange;
+}
+
+.importantlink {
+  text-align:center;
+}
+
+.superbullet {
+  font-size:1.5em;
+}
+
