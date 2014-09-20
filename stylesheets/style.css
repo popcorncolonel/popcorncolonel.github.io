@@ -5,21 +5,51 @@
 }
 
 .maintitle {
+    font-size:1.75em;
   text-align:center;
   text-decoration:none;
 }
 
 .maintitle:hover,
 .mouseover,
-a:hover{
+a:hover {
   color:orange;
 }
 
-.importantlink {
-  text-align:center;
+.mainlink {
+  font-size: 2em;
+  text-align: center;
 }
 
 .superbullet {
   font-size:1.5em;
 }
+
+.smallerimg {
+    width: 30%;
+    display:block;
+    margin: 0 auto;
+    border: 1px solid;
+    border-color:#0088DD;
+    box-shadow: 2px 2px 5px #333333;
+    border-radius: 25px;
+}
+
+/* <thanks src="http://stackoverflow.com/a/13694127/3949309"> */
+.alignleft {
+  float: left;
+  width:33.33333%;
+  text-align:left;
+}
+.aligncenter {
+  float: left;
+  width:33.33333%;
+  text-align:center;
+}
+.alignright {
+ float: left;
+ width:33.33333%;
+ text-align:right;
+}
+/* </thanks> */
 
