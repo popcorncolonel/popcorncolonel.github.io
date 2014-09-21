@@ -5,7 +5,7 @@
 }
 
 .maintitle {
-    font-size:1.75em;
+  font-size:1.75em;
   text-align:center;
   text-decoration:none;
 }
@@ -22,7 +22,14 @@ a:hover {
 }
 
 .superbullet {
-  font-size:1.5em;
+  font-size: 1.5em;
+}
+
+.backbutton {
+    left: 25px;
+    top: 40px;
+    font-size:1.2em;
+    position: absolute;
 }
 
 .smallerimg {
@@ -34,6 +41,19 @@ a:hover {
     box-shadow: 2px 2px 5px #333333;
     border-radius: 25px;
 }
+
+
+/* <thanks src="http://stackoverflow.com/a/11445533/3949309"> */
+ul{
+  margin-left:10px;
+}
+ul ul{
+  margin-left:-10px;
+}
+ul ul ul{
+  margin-left:-10px;
+}
+/* </thanks> */
 
 /* <thanks src="http://stackoverflow.com/a/13694127/3949309"> */
 .alignleft {
