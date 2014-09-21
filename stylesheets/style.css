@@ -22,14 +22,26 @@ a:hover {
 }
 
 .superbullet {
-  font-size: 1.5em;
+  margin-top:35px;
+  font-weight:500;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2em;
+  list-style-type: none;
 }
 
 .backbutton {
+    border-radius: 7px; /* tweak tweak tweak */
+    border-style:ridge;
+    border-width:4px;
+    padding:0px 5px;
+    text-decoration:none; /* it's obvious enough that your'e supposed to click it. */
     left: 25px;
     top: 40px;
     font-size:1.2em;
     position: absolute;
+}
+.backbutton:hover {
+    border-style:groove;
 }
 
 .smallerimg {
