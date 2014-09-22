@@ -23,24 +23,24 @@ a:hover {
 
 .superbullet {
   margin-top:35px;
-  font-weight:500;
-  font-family: 'Quicksand', sans-serif;
+  /*font-weight:500;*/
+  font-family: 'Arimo', sans-serif;
   font-size: 2em;
   list-style-type: none;
 }
 
-.backbutton {
+.button {
     border-radius: 7px; /* tweak tweak tweak */
     border-style:ridge;
     border-width:4px;
     padding:0px 5px;
-    text-decoration:none; /* it's obvious enough that your'e supposed to click it. */
+    text-decoration:none; /* it's obvious enough that you're supposed to click it. */
     left: 25px;
     top: 40px;
     font-size:1.2em;
     position: absolute;
 }
-.backbutton:hover {
+.button:hover {
     border-style:groove;
 }
 
@@ -70,7 +70,8 @@ ul ul ul{
 /* <thanks src="http://stackoverflow.com/a/13694127/3949309"> */
 .alignleft {
   float: left;
-  width:33.33333%;
+  padding-left: 5%;
+  width:28.33333%;
   text-align:left;
 }
 .aligncenter {
@@ -80,7 +81,8 @@ ul ul ul{
 }
 .alignright {
  float: left;
- width:33.33333%;
+ padding-right: 5%;
+ width:28.33333%;
  text-align:right;
 }
 /* </thanks> */
