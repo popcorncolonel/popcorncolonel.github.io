@@ -65,6 +65,8 @@ a:hover {
     /* http://stackoverflow.com/a/4059565/3949309 */
     text-shadow: 1px 1px white, -1px -1px #333;
     border-style:groove;
+    color:orange;
+    border-color:orange;
 }
 
 .smallerimg {
