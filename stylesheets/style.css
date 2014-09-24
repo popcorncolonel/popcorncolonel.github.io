@@ -17,6 +17,7 @@ a:hover {
 }
 
 .mainlink {
+    padding:10px;
   font-size: 2em;
   text-align: center;
 }
@@ -73,6 +74,9 @@ a:hover {
     border-radius: 25px;
 }
 
+.wrapper {
+    width:20%;
+}
 
 /* <thanks src="http://stackoverflow.com/a/11445533/3949309"> */
 ul{
@@ -89,19 +93,16 @@ ul ul ul{
 /* <thanks src="http://stackoverflow.com/a/13694127/3949309"> */
 .alignleft {
   float: left;
-  padding-left: 5%;
-  margin: 0 28.33333%;
+  margin-left:20%;
   text-align:left;
 }
 .aligncenter {
   float: left;
-  margin: 0 33.33333%;
   text-align:center;
 }
 .alignright {
  float: left;
- padding-right: 5%;
- margin: 0 28.33333%;
+ margin-right:20%;
  text-align:right;
 }
 /* </thanks> */
