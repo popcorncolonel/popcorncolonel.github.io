@@ -13,6 +13,8 @@
 .maintitle:hover,
 .mouseover,
 a:hover {
+  /* http://stackoverflow.com/a/4059565/3949309 */
+  text-shadow: 1px 1px white, -1px -1px #333;
   color:orange;
 }
 
@@ -59,6 +61,8 @@ a:hover {
     text-decoration:none; /* it's obvious enough that you're supposed to click it. */
 }
 .button:hover {
+    /* http://stackoverflow.com/a/4059565/3949309 */
+    text-shadow: 1px 1px white, -1px -1px #333;
     border-style:groove;
 }
 
