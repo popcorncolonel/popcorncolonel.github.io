@@ -66,7 +66,10 @@ a:hover {
     text-shadow: 1px 1px white, -1px -1px #333;
     border-style:groove;
     color:orange;
-    border-color:orange;
+    border-color:orange; /*really weird. button hover and a hover were not both getting called. */
+    /* on windows chrome, the hover only triggered for the .button and not for the anchor, but 
+     * on mac chrome, it called both simultaneously.
+     */
 }
 
 .smallerimg {
