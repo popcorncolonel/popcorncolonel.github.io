@@ -1,6 +1,6 @@
 * {
   font-family: 'Raleway', sans-serif;
-  background-color:#3698D9;
+  background-color:#3698D9; /* EBCM&#0153; blue */
   color:white;
 }
 
@@ -29,28 +29,47 @@ a:hover {
   list-style-type: none;
 }
 
+.biotext {
+    text-align:left;
+    width: 40%;
+    margin-left: 30%;
+}
+
+.mainlist {
+    margin-left: 10%;
+    width:80%; /* to center it, should it wrap */
+}
+
+.backbutton {
+    left: 25px;
+    top: 40px;
+    position: absolute;
+    font-size:1.2em;
+    padding:0px 5px;
+}
+
+/* class button, not for tag button! */
 .button {
+    -moz-border-radius: 7px; /* tweak tweak tweak */
+    -webkit-border-radius: 7px; /* tweak tweak tweak */
     border-radius: 7px; /* tweak tweak tweak */
     border-style:ridge;
     border-width:4px;
-    padding:0px 5px;
     text-decoration:none; /* it's obvious enough that you're supposed to click it. */
-    left: 25px;
-    top: 40px;
-    font-size:1.2em;
-    position: absolute;
 }
 .button:hover {
     border-style:groove;
 }
 
 .smallerimg {
-    width: 30%;
+    width: 20%;
     display:block;
-    margin: 0 auto;
+    margin: 0 auto; /* centers the img */
     border: 1px solid;
     border-color:#0088DD;
     box-shadow: 2px 2px 5px #333333;
+    -mozborder-radius: 25px;
+    -webkit-border-radius: 25px;
     border-radius: 25px;
 }
 
@@ -71,18 +90,18 @@ ul ul ul{
 .alignleft {
   float: left;
   padding-left: 5%;
-  width:28.33333%;
+  margin: 0 28.33333%;
   text-align:left;
 }
 .aligncenter {
   float: left;
-  width:33.33333%;
+  margin: 0 33.33333%;
   text-align:center;
 }
 .alignright {
  float: left;
  padding-right: 5%;
- width:28.33333%;
+ margin: 0 28.33333%;
  text-align:right;
 }
 /* </thanks> */
