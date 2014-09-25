@@ -89,6 +89,10 @@ a:hover {
     width:20%;
 }
 
+.ulwrapper {
+    list-style-type: none;
+}
+
 /* <thanks src="http://stackoverflow.com/a/11445533/3949309"> */
 ul{
   margin-left:10px;
