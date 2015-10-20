@@ -74,7 +74,8 @@ a:hover {
 }
 
 .smallerimg {
-    width: 20%;
+    min-width: 15%;
+    min-height: 35%;
     display:block;
     margin: 0 auto; /* centers the img */
     border: 1px solid;
@@ -122,6 +123,19 @@ ul ul ul{
 }
 /* </thanks> */
 
-.intro {
-    width: 30%;
+.intro{
+    background-color: rgba(0,0,0,0.25);
+
+    opacity: 50%;
+
+    padding-top:2.5%;
+    padding-bottom:2.5%;
+
+    padding-left:5%;
+    padding-right:5%;
+}
+.introwrapper {
+    margin: auto;
+    max-width: 1000px;
+    font-size:1.5em;
 }
