@@ -1,0 +1,38 @@
+ul.projectlist > span {
+    font-size:2em;
+}
+
+ul.projectlist > ul {
+    list-style-type: none;
+    margin-bottom: 15px;
+}
+
+ul.projectlist > ul > li:before {
+    content:"-";
+    position:relative;
+    font-size:1.25em;
+    left:-3px;
+}
+
+ul.projectlist > ul > li {
+    text-indent: -5px;
+}
+
+a {
+  text-decoration:none;
+}
+
+ul.projectlist li a {
+  text-decoration:underline;
+}
+
+button {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 1.125em;
+}
+
+button:hover {
+  cursor:pointer;
+  background-color:orange;
+}
