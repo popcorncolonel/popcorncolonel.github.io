@@ -36,3 +36,8 @@ button:hover {
   cursor:pointer;
   background-color:orange;
 }
+
+.preview {
+    max-width: 40%;
+    min-height: 250px;
+}
