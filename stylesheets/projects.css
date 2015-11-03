@@ -30,14 +30,26 @@ button {
     margin-top: 5px;
     margin-left: 10px;
     font-size: 1.125em;
+    /* background-color: #3698D9; /* EBCM blue */
+    background-color: #666;
 }
 
 button:hover {
   cursor:pointer;
-  background-color:orange;
+  /* background-color:orange; */
+  background-color: #787878;
 }
 
 .preview {
+    //max-height: 10px;
     max-width: 40%;
-    min-height: 250px;
+}
+
+.preview2 {
+    width: 50%;
+    height: 50%;
+}
+
+h1 {
+    font-size: 2.125em;
 }
