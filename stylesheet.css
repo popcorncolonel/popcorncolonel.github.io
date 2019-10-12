@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'HC Maru Gothic';
+    src: url('HC-Maru-Gothic.woff2') format('woff2'),
+        url('HC-Maru-Gothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cinecaption';
+    src: url('cinecaption.woff2') format('woff2'),
+        url('cinecaption.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hosofuwafont';
+    src: url('Hosofuwafont.woff2') format('woff2'),
+        url('Hosofuwafont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MS Mincho';
+    src: url('MS-Mincho.woff2') format('woff2'),
+        url('MS-Mincho.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Meiryo';
+    src: url('Meiryo.woff2') format('woff2'),
+        url('Meiryo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'chihaya_jyunregular';
+    src: url('chihayajun-webfont.woff2') format('woff2'),
+         url('chihayajun-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
