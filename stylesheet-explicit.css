@@ -1,47 +1,47 @@
 @font-face {
     font-family: 'HC Maru Gothic';
-    src: url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/HC-Maru-Gothic.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/HC-Maru-Gothic.woff') format('woff');
+    src: url('//popcorncolonel.github.io/HC-Maru-Gothic.woff2') format('woff2'),
+        url('//popcorncolonel.github.io/HC-Maru-Gothic.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'cinecaption';
-    src: url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/cinecaption.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/cinecaption.woff') format('woff');
+    src: url('//popcorncolonel.github.io/cinecaption.woff2') format('woff2'),
+        url('//popcorncolonel.github.io/cinecaption.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Hosofuwafont';
-    src: url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/Hosofuwafont.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/Hosofuwafont.woff') format('woff');
+    src: url('//popcorncolonel.github.io/Hosofuwafont.woff2') format('woff2'),
+        url('//popcorncolonel.github.io/Hosofuwafont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'MS Mincho';
-    src: url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/MS-Mincho.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/MS-Mincho.woff') format('woff');
+    src: url('//popcorncolonel.github.io/MS-Mincho.woff2') format('woff2'),
+        url('//popcorncolonel.github.io/MS-Mincho.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Meiryo';
-    src: url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/Meiryo.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/Meiryo.woff') format('woff');
+    src: url('//popcorncolonel.github.io/Meiryo.woff2') format('woff2'),
+        url('//popcorncolonel.github.io/Meiryo.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'chihaya_jyunregular';
-    src: url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/chihayajun-webfont.woff2') format('woff2'),
-         url('https://raw.githubusercontent.com/popcorncolonel/jibun-no-fonto/master/chihayajun-webfont.woff') format('woff');
+    src: url('//popcorncolonel.github.io/chihayajun-webfont.woff2') format('woff2'),
+         url('//popcorncolonel.github.io/chihayajun-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
