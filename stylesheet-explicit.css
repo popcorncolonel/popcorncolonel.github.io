@@ -38,6 +38,8 @@
     font-style: normal;
 }
 
+@font-face {font-family: "HakusyuKaisyoExtraBold_kk"; src: url("//db.onlinewebfonts.com/t/a8a9b098d0e2133272bcc9d5e0162f7d.eot"); src: url("//db.onlinewebfonts.com/t/a8a9b098d0e2133272bcc9d5e0162f7d.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/a8a9b098d0e2133272bcc9d5e0162f7d.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/a8a9b098d0e2133272bcc9d5e0162f7d.woff") format("woff"), url("//db.onlinewebfonts.com/t/a8a9b098d0e2133272bcc9d5e0162f7d.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/a8a9b098d0e2133272bcc9d5e0162f7d.svg#HakusyuKaisyoExtraBold_kk") format("svg"); }
+
 @font-face {
     font-family: 'chihaya_jyunregular';
     src: url('//popcorncolonel.github.io/chihayajun-webfont.woff2') format('woff2'),
@@ -46,4 +48,3 @@
     font-style: normal;
 
 }
-
